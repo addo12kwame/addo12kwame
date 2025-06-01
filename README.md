@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kwame Addo
+# 👋 Hi, I'm Kwame
 
 **Amazon Software SDE** | *Former Amazon SDE Intern*  
 *Passionate about scalable systems, ML-powered apps, and seamless user experiences.*
