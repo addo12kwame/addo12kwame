@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Kwame Addo — a software engineer and problem solver with a solid foundation in system administration and a drive for building scalable, secure, and impactful software.  
+I'm Kwame — a software engineer and problem solver with a solid foundation in system administration and a drive for building scalable, secure, and impactful software.  
 My journey spans infrastructure automation, distributed systems, and ML-driven applications.  
 I thrive on turning complex challenges into elegant solutions.  
 I'm currently exploring mobile ML deployment, event-driven architectures, and real-time data systems.
